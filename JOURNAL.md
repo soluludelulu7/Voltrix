@@ -23,3 +23,5 @@ Goals:
 4.) Demonstrate power generation by lighting LEDs or charging small devices.
 
 5.) Make an engineering journal with photos, PCB/CAD files etc and keep updating it along the way.
+
+<img width="700" height="500" alt="Voltrix" src="https://github.com/user-attachments/assets/0c3d89ce-72a7-487d-a9e1-cdf327def5b1" />
